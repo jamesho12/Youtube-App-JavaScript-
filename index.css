@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+form {
+  padding: 25px;
+  text-align: center;
+  font-size: 0;
+}
+
+input {
+  width: 395px;
+  
+}
+
+button {
+  margin-left: 5px;
+  width: 80px;
+}
+
+li {
+  margin-bottom: 15px;
+  text-align: center;
+}
